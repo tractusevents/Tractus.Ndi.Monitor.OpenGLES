@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Tractus.Ndi.Monitor": {
+      "commandName": "Project",
+      "commandLineArgs": "-w=1920 -h=1080 -src=\"ALPHAVII (Test Pattern)\"",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:42058;http://localhost:42059"
+    }
+  }
+}
